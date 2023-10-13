@@ -4,7 +4,7 @@
 
 
 ## Run
-build environment with docker
+build environment with docker (skip if you are using Anaconda)
 ```
 cd docker-gpu
 sh build.sh attn-gpu
